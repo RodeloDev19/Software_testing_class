@@ -1,35 +1,41 @@
-# Task Assignment Pull Request
+# Pull Request for College Class Assignment
 
-## Description
-[Descripción concisa de la tarea asignada]
+## Overview
+[Provide a brief overview or summary of the changes made in this pull request.]
 
 ## Changes Made
-[Listar los cambios específicos que has realizado en relación con la tarea]
+[List specific changes or improvements made to address the assignment requirements.]
 
-## Related Issues
-[Enlazar cualquier problema o tarea relacionada, por ejemplo, "#1: Issue de la tarea asignada"]
+## Related Assignment Details
+- **Assignment Title:** [Specify the title or topic of the assignment]
+- **Course Name:** [Provide the name of the course]
+- **Instructor:** [Include the name of the instructor]
+- **Due Date:** [Mention the due date for the assignment]
 
-## Screenshots (si aplica)
-[Adjuntar capturas de pantalla o imágenes relevantes, si es necesario]
+## Issues Resolved
+[Cite any related issues or challenges addressed by this pull request, if applicable.]
+
+## Documentation Updates
+[Specify any updates made to documentation, such as comments in code, additional explanations, or README files.]
 
 ## Testing
-[Detalles sobre las pruebas realizadas para verificar la corrección y funcionalidad]
+[Detail the testing process undertaken to ensure the correctness and functionality of the changes.]
 
-- [ ] Pruebas de unidad
-- [ ] Pruebas de integración
-- [ ] Otros tests específicos (especificar)
+- [ ] Unit tests conducted
+- [ ] Integration tests completed
+- [ ] Other specific tests performed (please specify)
 
 ## Checklist
-Marque los elementos que ha completado con un "x".
+Mark the items that have been completed with an "x".
 
-- [ ] He seguido el formato de codificación y estilo del proyecto.
-- [ ] Mi código se ejecuta sin errores.
-- [ ] He comentado el código, explicando partes críticas o complejas.
-- [ ] He actualizado la documentación si era necesario.
-- [ ] He revisado y corregido cualquier problema identificado en la revisión de código.
+- [ ] Adherence to coding standards and assignment guidelines.
+- [ ] Code runs without errors.
+- [ ] Comments added for clarity, especially on complex sections.
+- [ ] Documentation updated or added as needed.
+- [ ] Identified and resolved code review feedback.
 
 ## Additional Comments
-[Cualquier comentario adicional, pregunta o aclaración que puedas tener]
+[Include any additional comments, questions, or clarifications you might have.]
 
 ## Reviewers
 @RodeloDev19
