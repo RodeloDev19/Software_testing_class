@@ -1,0 +1,30 @@
+# .github/workflows/danger.yml
+
+name: Danger
+
+on:
+  pull_request:
+    paths:
+      - '**/*'
+
+jobs:
+  danger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v3
+        with:
+          ruby-version: '3.x'
+
+      - name: Install Bundler
+        run: gem install bundler
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Run Danger
+        run: bundle exec danger
